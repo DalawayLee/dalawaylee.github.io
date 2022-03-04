@@ -90,7 +90,7 @@ class App extends Component {
           </span>
 
     var profilePicButton = <a href="#home" title="Home">
-      <img src="https://cdn.jsdelivr.net/gh/needleworm/hslee/src/images/profile_pic.png" className="user-image" alt="My Profile"
+      <img src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/profile_pic.png" className="user-image" alt="My Profile"
         onClick={
           function(e){
             this.setState({
@@ -247,7 +247,7 @@ class App extends Component {
     return(
       <div>
         {mobileButtenMenu}
-        <header className="panel-cover" style={{background_image: "https://cdn.jsdelivr.net/gh/needleworm/hslee/src/images/background.jpg", maxWidth:'100%'}}>
+        <header className="panel-cover" style={{background_image: "https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/background.jpg", maxWidth:'100%'}}>
           <div className="panel-main">
             <div className="panel-main__inner panel-inverted">
               <div className="panel-main__content">

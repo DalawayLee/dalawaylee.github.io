@@ -25,7 +25,7 @@ class Membership extends Component {
 
     var design1 = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
-         <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/needleworm/hslee/src/images/designs/1.png" alt="projectimage"/>
+         <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/designs/1.png" alt="projectimage"/>
         <div className="projectText">
           <p><h5>달빛막창</h5></p>
             <p className="bookDescription">
@@ -38,7 +38,7 @@ class Membership extends Component {
 
     var design2 = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
-        <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/needleworm/hslee/src/images/designs/2.png" alt="projectimage"/>
+        <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/designs/2.png" alt="projectimage"/>
         <div className="projectText">
           <p><h5>Baby Leopard</h5></p>
             <p className="bookDescription">
@@ -49,7 +49,7 @@ class Membership extends Component {
 
     var design3 = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
-        <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/needleworm/hslee/src/images/designs/3.png" alt="projectimage"/>
+        <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/designs/3.png" alt="projectimage"/>
         <div className="projectText">
           <p><h5>Jung Se Won</h5></p>
             <p className="bookDescription">
