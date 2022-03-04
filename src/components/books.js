@@ -61,7 +61,7 @@ class Books extends Component {
 
     
     var bookSection4 = <div className="singleBookContainer">
-      <img src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/books/covers/4.jpg" alt="book8" className="bookCoverImage"/>
+      <img src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/books/covers/4.png" alt="book8" className="bookCoverImage"/>
       <h5><a href="https://doi.org/10.979.11958612/00" target="_blank"  rel="noreferrer">
         오감 <i className="fas fa-external-link-alt"></i>
         </a>
