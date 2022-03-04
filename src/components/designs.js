@@ -36,9 +36,9 @@ class Membership extends Component {
       </div>
     </div>
 
-    var design2 = <div className="singleLectureContainer">
+    var design3 = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
-        <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/designs/2.png" alt="projectimage"/>
+        <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/designs/3.png" alt="projectimage"/>
         <div className="projectText">
           <p><h5>Baby Leopard</h5></p>
             <p className="bookDescription">
@@ -47,9 +47,9 @@ class Membership extends Component {
       </div>
     </div>
 
-    var design3 = <div className="singleLectureContainer">
+    var design2 = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
-        <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/designs/3.png" alt="projectimage"/>
+        <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/dalawaylee/dalawaylee.github.io/src/images/designs/2.png" alt="projectimage"/>
         <div className="projectText">
           <p><h5>Jung Se Won</h5></p>
             <p className="bookDescription">
